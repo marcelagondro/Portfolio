@@ -8,11 +8,10 @@ Je suis une personne dynamique et communicative. Mes expériences professionnell
 
 Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis autonome et très déterminée.
 
-## CV
 
-**Québec**
+## Mon CV
 
-### Centre R.I.R.E. 2000
+### Centre R.I.R.E. 2000 - Québec
 2015-2021
 
 **Agente de communication et accompagnatrice**
@@ -29,7 +28,7 @@ Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis aut
 - Remplir toutes autres tâches connexes relatives au service des communications;
 - Accompagnatrice dans les cours d'informatiques.
 
-### Braille Jymico
+### Braille Jymico - Québec
 2015
 
 **Infographiste**
@@ -39,9 +38,7 @@ Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis aut
 - Préparer les fichiers pour l'impression;
 - Effectuer du traitement d'image;
 
-**Brésil**
-
-### Promova Ltda.
+### Promova Ltda. - Brésil
 2014
 
 **Coordinatrice du secteur de l´impression - graphiste**
@@ -52,7 +49,18 @@ Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis aut
 • Concevoir et créer des éléments graphiques pour différents clients;
 • Habillage de véhicule, panneau extérieur, découpe numérique, lettrage de façade.
 
-## Études
+### Max Midia Ltda. - Brésil
+2010-2014
+
+**Coordinatrice du secteur de l´impression - Designer graphique**
+
+•	Coordonner l’équipe de production et d’installation;
+•	Analyser et préparer les fichiers pour l’impression numérique;
+•	Concevoir et créer des éléments graphiques pour différents clients;
+•	Habillage de véhicule, panneau extérieur, découpe numérique, lettrage de façade.
+
+
+## Mes Études
 
 
 
