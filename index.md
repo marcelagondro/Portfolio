@@ -67,9 +67,9 @@ Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis aut
 
 ## Mes intérêts
 
-![Image] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/Bee.jpg) **Nature**
-![Image] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/cafe2.jpg) **Cafe**
-![Image] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/crochet.jpg) **Crochet**
+[Link] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/Bee.jpg) **Nature**
+[Link] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/cafe2.jpg) **Cafe**
+[Link] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/crochet.jpg) **Crochet**
 
 
 ### Markdown
