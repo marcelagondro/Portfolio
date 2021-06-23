@@ -76,11 +76,11 @@ Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis aut
 
 **Cafe**
 
-![Image] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/Bee.jpg) 
+![Image](https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/Bee.jpg) 
 
 **Nature**
 
-![Image] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/crochet.jpg) 
+![Image](https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/crochet.jpg) 
 
 **Crochet**
 
