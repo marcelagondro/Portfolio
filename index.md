@@ -64,12 +64,22 @@ Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis aut
 
 ## Mes Études
 
+### Diplôme de Designer Graphique 2003 - 2010
+**Université technologique fédérale du Parana – Brésil**
+
+
+
 
 ## Mes intérêts
 
-[Link] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/Bee.jpg) **Nature**
-[Link] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/cafe2.jpg) **Cafe**
-[Link] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/crochet.jpg) **Crochet**
+![Image] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/Bee.jpg)
+**Nature**
+
+![Image] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/cafe2.jpg) 
+**Cafe**
+
+![Image] (https://github.com/marcelagondro/Portfolio/blob/gh-pages/img/crochet.jpg) 
+**Crochet**
 
 
 ### Markdown
