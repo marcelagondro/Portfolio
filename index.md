@@ -1,12 +1,16 @@
 # Bienvenue à mon Portfolio!!
 
 ## Mon Profil
-Passionnée par le graphisme et le design, j'ai toujours cherché à en faire mon métier. J'ai eu l'occasion de travailler sur des projets variés touchant tant à l'imprimé qu'au web.
+Passionnée par le graphisme et le design, j'ai toujours cherché à en faire mon métier!
+
+J'ai eu l'occasion de travailler sur des projets variés touchant tant à l'imprimé qu'au web.
 Je suis une personne dynamique et communicative. Mes expériences professionnelles touchent principalement la création de contenu numérique, gestion de réseaux sociaux et le service à la clientèle. Je suis une personne très organisée et polyvalente, qui travail bien en équipe. Je suis à l'aise à travailler en différents projets en même temps.
 
-J'ai une excellente connaissance du français. Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis autonome et très déterminée.
+Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis autonome et très déterminée.
 
 ## CV
+
+**Québec**
 
 ### Centre R.I.R.E. 2000
 2015-2021
@@ -25,6 +29,28 @@ J'ai une excellente connaissance du français. Je suis ouverte sur le monde, je 
 - Remplir toutes autres tâches connexes relatives au service des communications;
 - Accompagnatrice dans les cours d'informatiques.
 
+### Braille Jymico
+2015
+
+**Infographiste**
+
+- Travailler à l'adaptation de manuels scolaires en gros caractères pour personnes ayant des problèmes d'ordre visuel;
+- Produire des agrandissements (une page originale, format portrait, agrandie et adaptée sur deux pages, format paysage);
+- Préparer les fichiers pour l'impression;
+- Effectuer du traitement d'image;
+
+**Brésil**
+
+### Promova Ltda.
+2014
+
+**Coordinatrice du secteur de l´impression - graphiste**
+
+• Coordonner l’équipe de production et d’installation;
+• Analyser et préparer les fichiers pour l’impression numérique;
+• Assurer le contrôle de la qualité du matériel imprimé;
+• Concevoir et créer des éléments graphiques pour différents clients;
+• Habillage de véhicule, panneau extérieur, découpe numérique, lettrage de façade.
 
 ## Études
 
