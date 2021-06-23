@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Bienvenue à mon Portfolio!!
 
-You can use the [editor on GitHub](https://github.com/marcelagondro/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Profil
+Passionnée par le graphisme et le design, j'ai toujours cherché à en faire mon métier. J'ai eu l'occasion de travailler sur des projets variés touchant tant à l'imprimé qu'au web.
+Je suis une personne dynamique et communicative. Mes expériences professionnelles touchent principalement la création de contenu numérique, gestion de réseaux sociaux et le service à la clientèle. Je suis une personne très organisée et polyvalente, qui travail bien en équipe. Je suis à l'aise à travailler en différents projets en même temps.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+J'ai une excellente connaissance du français. Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis autonome et très déterminée.
+
+# CV
+# Études
+
+
+
+
 
 ### Markdown
 
