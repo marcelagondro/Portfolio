@@ -11,6 +11,8 @@ Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis aut
 
 ## Mon CV
 
+
+
 ### Centre R.I.R.E. 2000 - Québec
 2015-2021
 
@@ -43,21 +45,21 @@ Je suis ouverte sur le monde, je possède un bon esprit d’analyse, je suis aut
 
 **Coordinatrice du secteur de l´impression - graphiste**
 
-• Coordonner l’équipe de production et d’installation;
-• Analyser et préparer les fichiers pour l’impression numérique;
-• Assurer le contrôle de la qualité du matériel imprimé;
-• Concevoir et créer des éléments graphiques pour différents clients;
-• Habillage de véhicule, panneau extérieur, découpe numérique, lettrage de façade.
+- Coordonner l’équipe de production et d’installation;
+- Analyser et préparer les fichiers pour l’impression numérique;
+- Assurer le contrôle de la qualité du matériel imprimé;
+- Concevoir et créer des éléments graphiques pour différents clients;
+- Habillage de véhicule, panneau extérieur, découpe numérique, lettrage de façade.
 
 ### Max Midia Ltda. - Brésil
 2010-2014
 
 **Coordinatrice du secteur de l´impression - Designer graphique**
 
-•	Coordonner l’équipe de production et d’installation;
-•	Analyser et préparer les fichiers pour l’impression numérique;
-•	Concevoir et créer des éléments graphiques pour différents clients;
-•	Habillage de véhicule, panneau extérieur, découpe numérique, lettrage de façade.
+-	Coordonner l’équipe de production et d’installation;
+-	Analyser et préparer les fichiers pour l’impression numérique;
+-	Concevoir et créer des éléments graphiques pour différents clients;
+-	Habillage de véhicule, panneau extérieur, découpe numérique, lettrage de façade.
 
 
 ## Mes Études
